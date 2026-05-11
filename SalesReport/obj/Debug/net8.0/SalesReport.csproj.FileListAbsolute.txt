@@ -1,0 +1,14 @@
+C:\Users\IMPULSE\SalesReport\bin\Debug\net8.0\SalesReport.exe
+C:\Users\IMPULSE\SalesReport\bin\Debug\net8.0\SalesReport.deps.json
+C:\Users\IMPULSE\SalesReport\bin\Debug\net8.0\SalesReport.runtimeconfig.json
+C:\Users\IMPULSE\SalesReport\bin\Debug\net8.0\SalesReport.dll
+C:\Users\IMPULSE\SalesReport\bin\Debug\net8.0\SalesReport.pdb
+C:\Users\IMPULSE\SalesReport\obj\Debug\net8.0\SalesReport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IMPULSE\SalesReport\obj\Debug\net8.0\SalesReport.AssemblyInfoInputs.cache
+C:\Users\IMPULSE\SalesReport\obj\Debug\net8.0\SalesReport.AssemblyInfo.cs
+C:\Users\IMPULSE\SalesReport\obj\Debug\net8.0\SalesReport.csproj.CoreCompileInputs.cache
+C:\Users\IMPULSE\SalesReport\obj\Debug\net8.0\SalesReport.dll
+C:\Users\IMPULSE\SalesReport\obj\Debug\net8.0\refint\SalesReport.dll
+C:\Users\IMPULSE\SalesReport\obj\Debug\net8.0\SalesReport.pdb
+C:\Users\IMPULSE\SalesReport\obj\Debug\net8.0\SalesReport.genruntimeconfig.cache
+C:\Users\IMPULSE\SalesReport\obj\Debug\net8.0\ref\SalesReport.dll
